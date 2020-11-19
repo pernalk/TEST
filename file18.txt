@@ -1,5 +1,5 @@
 ffs l1
 fdg dfg gfl2
-aaa
-bbb
+new line only in new1 branch
+new line in master 
 fdf  l3
