@@ -1,0 +1,3 @@
+fileA2 in new2
+this line appears only in temp branch
+this line as well
