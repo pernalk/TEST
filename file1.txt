@@ -1,3 +1,4 @@
 changes in new2 branch file1
 A
+BA
 fsdf
